@@ -1,11 +1,3 @@
-# fresh project
+# fresh-todo-app
 
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+A ToDo App made with the new Fresh Web Framework!
